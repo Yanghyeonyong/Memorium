@@ -1,6 +1,6 @@
 # Memorium
 
-##담당 영할
+## 담당 영할
 ### 장비
 - [`EquipmentInventoryModule.cs`](https://github.com/Yanghyeonyong/Memorium/blob/main/Assets/00.%20Scripts/Refactoring/Inventory/Modules/EquipmentInventoryModule.cs) : 요청받은 장비 데이터의 수량 변동 시 호출되는 모듈입니다.
 - [`EquipmentHandler.cs`](https://github.com/Yanghyeonyong/Memorium/blob/main/Assets/00.%20Scripts/Equipment/EquipmentHandler.cs) : 장비 자동 장착, 자동 합성, 강화 연동, 장비 UI 갱신 요청을 관리하는 장비 시스템의 진입점입니다.
